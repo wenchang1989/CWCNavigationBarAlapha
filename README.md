@@ -1,0 +1,2 @@
+# CWCNavigationBarAlapha
+动态改变当前视图的导航透明度，其它视图不受影响
